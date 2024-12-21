@@ -1,0 +1,186 @@
+================ Header ================
+.nav-Logo div
+WebSure
+
+.nav-Link
+Home
+About
+Services
+Portfolio
+Contact Us
+
+.button
+Get Started
+
+
+================ Home Section ================
+.home-Name
+WebSure
+
+.home-company
+Web Design Agency
+
+.home-Profession
+UI/UX Designer
+
+.home-Text
+We’re a passionate team of designers and developers dedicated to creating exceptional digital experiences. With a focus on user-centric design and cutting-edge technology, we help businesses of all sizes achieve their online goals.
+
+.button
+Hire me
+Learn More
+
+
+================ About Section ================
+-- Company skills section --
+.section-Title
+Our Company Skills
+
+.section-Text
+From concept to completion, we create stunning websites that captivate your audience
+
+.skills-Text
+Digital Marketing
+SEO
+E-commerce
+Graphic Design
+
+-- Company Team Section --
+.section-Title
+Team Of Experts
+
+.section-Text
+We build robust, user-friendly websites that perform seamlessly across all devices
+
+.about-Name
+Annie Brown
+Daniel Smith
+Amelia George
+
+.about-Work
+UI/UX Designer
+Web Developer
+Graphic Designer
+
+.about-Description
+We're a team of passionate designers and developers who create stunning, user-friendly websites that drive results.
+
+.button
+Know More
+
+
+================ Service Section ================
+-- Our services section --
+.section-Title
+Our Services to Clients
+
+.section-Text
+From concept to launch, we guide you through the entire website development process
+
+.service-Name
+Website Development
+UX/UI Design
+Graphic Design
+
+.service-Text
+Unlock Your Brand's Potential Online
+
+-- Our clients section --
+.section-Title
+Our Clients
+
+-- Testimonial section --
+.section-Title
+Testimonials
+
+.testimonial-Name
+Jessica Taylor
+
+.testimonial-Text
+The team at this agency was incredibly easy to work with. They listened to our needs and delivered a website that exceeded our expectations. Their team completely revamped our site, making it modern, user-friendly, and highly effective. We've seen a significant increase in website traffic and conversions since the launch.
+
+
+================ Portfolio Section ================
+-- Recent projects section --
+.section-Title
+Recent Projects
+
+.section-Text
+Explore Our portfolio that reflects our commitment to excellence, innovation, and client satisfaction
+
+.project-Title
+Fruits Selling Website
+Tour & Travel Website
+Dashboard Design
+Restaurant Website
+
+.project-Description
+Discover how we've transformed brands and businesses with our strategic design approach, resulting in impactful and user-centric experiences.
+
+-- Plans and Pricing section --
+.section-Title
+Our Plans and Pricing
+
+.section-Text
+We build robust, user-friendly websites that perform seamlessly across all devices
+
+.plans-Title
+Basic
+Standard
+Premium
+
+.offering-Name h3
+Web Hosting
+SEO Optimization
+Advanced Website Design
+Custom Website Design
+e-Commerce Functionality
+
+.button span
+Buy Now
+
+
+================ Contact Section ================
+.section-Title
+GET IN TOUCH
+
+.section-Text
+Explore Our portfolio that reflects our commitment to excellence, innovation, and client satisfaction
+
+.button
+Send Message
+
+
+================ Footer ================
+.footer-Logo div
+WebSure
+
+.footer-Slogan
+Where creativity meets technology
+
+.footer-Icons h3
+Follow us on
+
+.footer-Navigation h3
+SUPPORT
+
+.footer-Link
+Privacy Policy
+Terms & Conditions
+Contact
+
+.footer-Address div span
++91-12345
+info@websure.com
+Model Town, Street 72
+
+.button span
+Reach Us
+
+.footer-Copy
+&#169; All Rights Reserved by Coding Programming
+
+
+================ EmailJS ================
+Message sent successfully ✅
+Message not sent (service error) ❌
